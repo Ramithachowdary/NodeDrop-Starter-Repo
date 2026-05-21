@@ -1,6 +1,6 @@
-# NodeDrop — Starter Repo
+# NodeDrop - Starter Repo
 
-Welcome to NodeDrop! 💬
+Welcome to NodeDrop! 
 
 This is the starter template for the NodeDrop workshop.
 You will build a real-time chat app from scratch during the session.
@@ -20,3 +20,4 @@ You will build a real-time chat app from scratch during the session.
 
 ## Instructor
 Bala Saravanan K
+Ramitha Chowdary S
